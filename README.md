@@ -3,14 +3,10 @@
 
 ### Description
 
-This is a project to make change for a customer based off the amount paid and cost of items purchased. It will count out each type of bill and coin returned to the customer.
+This is a project to make a Food Truck Rating app. It will allow the user to enter up to 5 food truck names, food types, and ratings. 
 
 ### Topics and Technologies used
-* Conditionals (if/else)
-* Math
-* Scanner
-* Modulo
-* Scanner
+
 
 
 ### How to run
